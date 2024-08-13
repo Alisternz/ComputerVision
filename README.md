@@ -1,2 +1,4 @@
 # ComputerVision
-an openCV python project repo
+A rough implementation of an openCV python project
+
+
